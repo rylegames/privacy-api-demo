@@ -1,4 +1,5 @@
 # minicy
+Vue + Express App demonstrating Privacy.com's API.
 
 ## Project setup
 ```
