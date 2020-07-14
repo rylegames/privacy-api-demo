@@ -1,4 +1,4 @@
-# minicy
+# Privacy.com API Demo
 Vue + Express App demonstrating Privacy.com's API.
 
 ## Project setup
